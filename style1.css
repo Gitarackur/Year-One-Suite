@@ -1,0 +1,235 @@
+@media only screen and (max-width: 600px){
+	
+ * {
+    padding : 0;
+    margin : 0;
+	box-sizing: border-box;
+	font-size: 10px;
+	font-family: arial;
+}
+
+body {
+   background: linear-gradient(rgba(255,255,255,0.7), rgba(200,200,200,1));
+	background-repeat: no-repeat;
+    color : black;
+}
+
+#totalbody{
+	background-image: linear-gradient(#3888E8, #A8C8F0, rgba(255,255,255,1));
+	background-size: cover;
+	width:95%;
+	margin-left:2.5%;
+}
+
+
+#Yr1SuiteHeader{
+	display: flex;
+	width:100%;
+	padding-top: 10px;
+	padding-bottom:30px;
+	padding-left: 10px;
+}
+
+.Yr1SuiteLogo{
+	width: 60%;
+	color: white;
+}
+
+.Yr1SuiteLogo h1{
+	font-size: 10px;
+	font-weight: normal;
+	margin-top:5px;
+}
+
+
+.Yr1SuiteLogo h1 font{
+	font-size:25px;
+	font-weight: bold;
+	position: relative;
+	top: 6px;
+}
+
+.HybridImg{
+	width: 40%;
+	position: relative;
+	top: -5px;
+}
+
+.subHybridImg{
+	background-image: url("../images/hybrid.jpg");
+	background-repeat: no-repeat;
+	width: 75%;
+	height: 50px;
+	position: relative;
+	left: 20%;
+}
+
+
+
+
+
+#toppanel{
+	display: flex;
+	width:100%;
+}
+
+
+#GplayLink{
+	width:40%;
+	color: white;
+	margin-top: 20px;
+}
+
+
+.Yr1SuiteSpeech1{
+	display: block;
+	width: 100%;
+	font-weight: bold;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top:10px;
+	margin-bottom:0px;
+	font-size:15px;
+}
+
+
+
+.Yr1SuiteSpeech2{
+	display: block;
+	width: 100%;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top:10px;
+	margin-bottom:30px;
+	font-weight: bold;
+}
+
+
+#GplayLink a{
+	background-color: green;
+	color: white;
+	text-decoration: none;
+	display: block;
+	width:90%;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top:10px;
+	margin-bottom:0px;
+	padding:10px;
+	text-align: center;
+}
+
+.fa-google-play{
+	width: 5%;
+}
+
+
+
+#imgpanel{
+	position: relative;
+	top: 0px;
+	left:7.5%;
+	width:50%;
+	color: white;
+}
+
+#imgpanel img{
+	position: relative;
+	left:0%;
+	width: 100%;
+	height: 200px;
+}
+
+
+
+
+.YYear1Suite{
+	width:100%;
+	text-align: center;
+	text-decoration: underline;
+	text-decoration-color: green;
+	color: rgba(0,0,0,0.6);
+	padding:10px;
+	margin-top:20px;
+}
+
+
+
+	
+#grid1, #grid2	{
+	display: flex;
+	width: 100%;
+}
+	
+#grid1 div, #grid2 div{
+	display: block;
+	width: 33.3%;
+	background-color: white;
+	color: red;
+	border: 1px solid black;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top:10px;
+	margin-bottom:0px;
+	padding:10px;
+}
+
+
+#grid1 div p, #grid2 div p{
+	width:100%;
+	text-align: center;
+}
+
+ .fa-running{
+	font-size: 30px;
+	color: blue;
+	width:10%;
+	position: relative;
+	left:35%;
+}
+	
+.fa-book{
+	font-size:30px;
+	color: yellow;
+	width:10%;
+	position: relative;
+	left:35%;
+}
+	
+.fa-tasks{
+	font-size:30px;
+	color: green;
+	width:10%;
+	position: relative;
+	left:35%;
+}
+	
+.fa-graduation-cap{
+	font-size:30px;
+	color: green;
+	width: 10%;
+	position: relative;
+	left:35%;
+}
+	
+.fa-suitcase{
+	font-size:30px;
+	color: red;
+	width:10%;
+	position: relative;
+	left:35%;
+}
+	
+.fa-clock{
+	font-size: 30px;
+	color: blue;
+	width:10%;
+	position: relative;
+	left:35%;
+}
+	
+	
+	
+	
+	
+	
